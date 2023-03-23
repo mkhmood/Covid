@@ -1,1 +1,1 @@
-# Covide
+# Covid
